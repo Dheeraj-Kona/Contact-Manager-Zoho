@@ -2,10 +2,10 @@
 Introduction:
 Hey! This Is Dheeraj Kumar Kona, I'm Currently Pursuing Bachelor's Degree In Computer Applications.
 
-Project Name : Contact Manager
-Type : Android Application
-Technologies : Java and SQLite3
-Developed Environment : Android Studio
+--Project Name : Contact Manager
+--Type : Android Application
+--Technologies : Java and SQLite3
+-Developed Environment : Android Studio
  
  Project Details:
   
